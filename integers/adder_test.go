@@ -3,7 +3,6 @@ package integers
 import (
 	"fmt"
 	"testing"
-	"hogehoge.com/integers"
 )
 
 func TestAdder(t *testing.T) {
