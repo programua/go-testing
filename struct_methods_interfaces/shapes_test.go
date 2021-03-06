@@ -16,6 +16,7 @@ func TestPerimeter(t *testing.T) {
 
 func TestArea(t *testing.T) {
 
+	// Table driven tests
 	areaTest := []struct {
 		shape   Shape
 		hasArea float64
